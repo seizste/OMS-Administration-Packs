@@ -83,7 +83,7 @@
       <PackageToBundle>False</PackageToBundle>
     </ManagementPackReference>
     <ManagementPackReference Include="Microsoft.IntelligencePacks.Performance">
-      <HintPath>C:\Users\Nathan\Source\Repos\OMS-Administartion-Packs\Pack Dependances\tmpEFB4Microsoft.IntelligencePacks.Performance.mpb</HintPath>
+      <HintPath>..\Pack Dependances\tmpEFB4Microsoft.IntelligencePacks.Performance.mpb</HintPath>
       <Alias>IPPerfCollection</Alias>
       <MinVersion>1.2.1416.0</MinVersion>
       <PackageToBundle>False</PackageToBundle>
